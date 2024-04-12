@@ -1,3 +1,3 @@
 # machete-test!
 test
-11(h, b, c)
+11(G, b, c)
